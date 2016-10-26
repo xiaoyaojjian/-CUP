@@ -1,0 +1,4 @@
+# matach all python pyc files
+*.pyc
+.svn
+cup/bidu
